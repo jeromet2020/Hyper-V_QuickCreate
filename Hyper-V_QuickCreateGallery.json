@@ -3,7 +3,7 @@
     {
       "name": "Ubuntu 24.04 LTS",
       "publisher": "Canonical Group Ltd",
-      "lastUpdated": "2025-03-13T10:34:48+02:00",
+      "lastUpdated": "2026-10-27T23:10:00+02:00",
       "version": "24.04 LTS",
       "locale": "en-US",
       "description": [
@@ -22,7 +22,7 @@
       },
       "disk": {
         "uri": "https://partner-images.canonical.com/hyper-v/desktop/noble/current/ubuntu-noble-hyperv-amd64-ubuntu-desktop-hyperv.vhdx.zip",
-        "hash": "sha256:cf9167f8d95e49a6ccfb09a55eb77f6f89b4bc1a2e15f04df1db57e3d1fba837",
+        "hash": "sha256:00b5c0ad96a239e8c083de3ec9a1a0f2a01ca62efef6b1a4f33c97dd6d968d6b",
         "archiveRelativePath": "livecd.ubuntu-desktop-hyperv.vhdx"
       },
       "logo": {
@@ -55,7 +55,7 @@
     {
       "name": "Ubuntu 26.04 LTS",
       "publisher": "Canonical Group Ltd",
-      "lastUpdated": "2026-08-22T01:08:00+02:00",
+      "lastUpdated": "2026-10-27T23:10:00+02:00",
       "version": "26.04 LTS",
       "locale": "en-US",
       "description": [
@@ -74,7 +74,7 @@
       },
       "disk": {
         "uri": "https://partner-images.canonical.com/hyper-v/desktop/resolute/current/ubuntu-resolute-hyperv-amd64v3-ubuntu-desktop-hyperv.vhdx.zip",
-        "hash": "sha256:400732ad89dd8959aeddff7fc56f3fb84cfdc1193f86dc4816e44569eda0ddd6",
+        "hash": "sha256:f9319b249e2d6bc1947f259eb2ab4928ab1531b75d423a64ec0137a8f2c838cb",
         "archiveRelativePath": "livecd.ubuntu-desktop-hyperv.vhdx"
       },
       "logo": {
