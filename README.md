@@ -9,5 +9,5 @@ Look for the GalleryLocations. If it doesn't exist, create a new Mult-string val
 If it already exists, set its value to:
 
 ```
-https://go.microsoft.com/fwlink/?linkid=851584
+https://go.microsoft.com/fwlink/?linkid=851584 https://raw.githubusercontent.com/jeromet2020/Hyper-V_QuickCreate/refs/heads/main/Hyper-V_QuickCreateGallery.json
 ```
